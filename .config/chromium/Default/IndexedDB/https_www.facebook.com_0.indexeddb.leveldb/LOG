@@ -1,0 +1,5 @@
+2020/06/05-16:41:55.541 171a Reusing MANIFEST /home/dasilvaca/.config/chromium/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/05-16:42:27.567 1aa1 Level-0 table #5: started
+2020/06/05-16:42:27.569 1aa1 Level-0 table #5: 1233 bytes OK
+2020/06/05-16:42:27.571 1aa1 Delete type=0 #3
+2020/06/05-16:42:27.571 1aa1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

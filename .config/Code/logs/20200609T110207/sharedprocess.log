@@ -1,0 +1,14 @@
+[2020-06-09 11:02:10.815] [sharedprocess] [info] main {"machineId":"36d74f29b644eca6becf0e8ba812a75313287987aaffdf16836d3800bfbd150c","windowId":2}
+[2020-06-09 11:02:13.196] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-06-09 11:02:50.829] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-06-09 11:03:03.538] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/bb018d4b-9f34-41cb-9ad3-2cd000a0f3e6
+[2020-06-09 11:03:05.457] [sharedprocess] [info] Extracted extension to /home/dasilvaca/.vscode/extensions/.ms-python.python-2020.5.86398: ms-python.python
+[2020-06-09 11:03:05.458] [sharedprocess] [info] Renamed to /home/dasilvaca/.vscode/extensions/ms-python.python-2020.5.86398
+[2020-06-09 11:03:05.461] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-06-09 11:03:05.472] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2020-06-09 13:46:08.750] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2020-06-09 13:46:09.826] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /tmp/f599c23b-bacc-4e8f-a10d-b6b38ef9e8e0
+[2020-06-09 13:46:10.291] [sharedprocess] [info] Extracted extension to /home/dasilvaca/.vscode/extensions/.ms-vscode.cpptools-0.28.3: ms-vscode.cpptools
+[2020-06-09 13:46:10.291] [sharedprocess] [info] Renamed to /home/dasilvaca/.vscode/extensions/ms-vscode.cpptools-0.28.3
+[2020-06-09 13:46:10.295] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2020-06-09 13:46:10.307] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools

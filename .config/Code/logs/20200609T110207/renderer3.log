@@ -1,0 +1,15 @@
+[2020-06-09 13:47:44.337] [renderer3] [error] ioctl(2) failed, EBADF: Error: ioctl(2) failed, EBADF
+    at UnixTerminal.resize (/var/lib/snapd/snap/code/33/usr/share/code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:238:13)
+    at e.resize (file:///var/lib/snapd/snap/code/33/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3342:64)
+    at e.setDimensions (file:///var/lib/snapd/snap/code/33/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4344:978)
+    at e._resize (file:///var/lib/snapd/snap/code/33/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4443:108)
+[2020-06-09 13:47:53.782] [renderer3] [error] ioctl(2) failed, EBADF: Error: ioctl(2) failed, EBADF
+    at UnixTerminal.resize (/var/lib/snapd/snap/code/33/usr/share/code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:238:13)
+    at e.resize (file:///var/lib/snapd/snap/code/33/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3342:64)
+    at e.setDimensions (file:///var/lib/snapd/snap/code/33/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4344:978)
+    at e._resize (file:///var/lib/snapd/snap/code/33/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4443:108)
+[2020-06-09 13:49:00.521] [renderer3] [error] ioctl(2) failed, EBADF: Error: ioctl(2) failed, EBADF
+    at UnixTerminal.resize (/var/lib/snapd/snap/code/33/usr/share/code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:238:13)
+    at e.resize (file:///var/lib/snapd/snap/code/33/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3342:64)
+    at e.setDimensions (file:///var/lib/snapd/snap/code/33/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4344:978)
+    at e._resize (file:///var/lib/snapd/snap/code/33/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4443:108)

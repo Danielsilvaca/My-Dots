@@ -1,0 +1,2 @@
+{Intel/Mesa Intel(R) UHD Graphics 630 (CFL GT2)/4.6 (Core Profile) Mesa 20.0.6}=SUPPORTED
+{Intel/Mesa Intel(R) UHD Graphics 630 (CFL GT2)/4.6 (Core Profile) Mesa 20.0.7}=SUPPORTED

@@ -1,0 +1,16 @@
+TrackerStarter version 5.1.5  15:34:05  Jun 19 2020
+
+ - relaunch initiated by Tracker
+ - TrackerStarter running in jre: /usr/lib/jvm/java-14-openjdk
+ - launching with main arguments: null
+ - osp.prefs XUGGLE_HOME: null
+ - environment variable XUGGLE_HOME: null
+ - loading starter preferences from: /home/dasilvaca/.config/OSP/.tracker.prefs
+ - system property PREFERRED_TRACKER_JAR = /tmp/mozilla_dasilvaca0/tracker-5.1.5.jar
+ - preferred version: 5.1.5
+ - no preferred or bundled java VM, using default
+ - system property PREFERRED_MEMORY_SIZE = 256
+ - preferred memory size: 256 MB
+ - setting TRACKER_HOME = /tmp/mozilla_dasilvaca0
+ - executing command: /usr/lib/jvm/java-14-openjdk/bin/java -Xms32m -Xmx256m -jar /tmp/mozilla_dasilvaca0/tracker-5.1.5.jar 
+ - writing user start log to /home/dasilvaca/.config/OSP/tracker_start.log
